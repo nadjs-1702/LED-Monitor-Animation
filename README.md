@@ -136,6 +136,30 @@ It shows how video content is routed, processed, mapped to LED pixels and finall
 
 #### C: Communication
 
+This diagram illustrates how the different system components communicate with each other.
+
+TouchDesigner acts as the central control unit.  
+It processes the visual content, extracts colour information and sends DMX data via Art-Net to the LED controller.
+
+The Pixlite controller receives this data and forwards it to the LED strips, which then display the corresponding colours.
+
+Small communication overview:
+
+TouchDesigner
+    │  
+    │ Art-Net (DMX)  
+    ▼  
+Pixlite Controller  
+    │  
+    │ Data signal  
+    ▼  
+LED Strips
+
+Important:  
+The IP address in TouchDesigner must match the IP of the Pixlite controller.  
+Otherwise, no data transmission will occur.
+
+
 ### Screenshots and pictures of the project
 
 ![Behind the Scene 1](img/behind_the_scene1.png)
