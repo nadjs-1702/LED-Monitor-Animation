@@ -158,6 +158,8 @@ It shows how video content is routed, processed, mapped to LED pixels and finall
 
 ![Hardware Diagram](img/hardware_diagram.jpg)
 
+The hardware diagram represents the physical setup of the LED system. It shows how the LED strips, power supply, Pixlite controller, router and computer are connected to receive control data from TouchDesigner and drive the LEDs.
+
 #### C: Communication
 
 This diagram illustrates how the different system components communicate with each other.
@@ -230,12 +232,9 @@ During the ideation all three members of the team were involved in finding a fun
 
 ### D: Learning effect
 
-TouchDesigner is an awesome tool with many possibilities – some of which we were able to learn through this project.  
-Throughout the process, we realised how endless the creative and technical options within TouchDesigner really are. The software offers a wide range of tools for real-time visual design and generative content creation.
+TouchDesigner is an awesome tool with many possibilities – some of which we were able to learn through this project. Throughout the process, we realised how endless the creative and technical options within TouchDesigner really are. The software offers a wide range of tools for real-time visual design and generative content creation.
 
 By following online tutorials and experimenting with different node networks, we gained a deeper understanding of how noise, feedback loops, displacement and colour mapping work together to create dynamic visuals. Step by step, we learned how small parameter changes can strongly influence the overall look and mood of an animation.
-
-TouchDesigner is a very extensive and powerful program. At the beginning, it is necessary to watch several tutorials in order to understand the workflow and structure of the software. However, once the basics are understood, working with TouchDesigner becomes highly rewarding.
 
 Especially the interactive control of parameters, such as colour adjustments, helped us to adapt the visuals to different moods and lighting concepts. This showed us how creative coding can be combined with artistic experimentation.
 
