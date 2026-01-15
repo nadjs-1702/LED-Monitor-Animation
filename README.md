@@ -1,5 +1,29 @@
 # Documentation – LED-Monitor-Animation
 
+## Table of Contents
+
+- [About](#about)
+- [Usage](#usage)
+  - [Step-by-step instructions](#step-by-step-instructions)
+    - [Touchdesigner](#touchdesigner)
+  - [Content creation](#content-creation)
+    - [Dancing Woman](#dancing-woman)
+    - [Liquid Colors](#liquid-colors)
+    - [Video](#video)
+  - [Diagrams](#diagrams)
+    - [A: Software Diagram](#a-software-diagram)
+    - [B: Hardware Diagram](#b-hardware-diagram)
+    - [C: Communication](#c-communication)
+  - [Screenshots and pictures of the project](#screenshots-and-pictures-of-the-project)
+- [Reflection](#reflection)
+  - [A: Planning and development process](#a-planning-and-development-process)
+  - [B: Challenges, rejected solutions, failures and re-planning](#b-challenges-rejected-solutions-failures-and-re-planning)
+  - [C: Task distribution](#c-task-distribution)
+  - [D: Learning effect](#d-learning-effect)
+  - [E: Tools](#e-tools)
+  - [F: Known bugs](#f-known-bugs)
+- [Initiative](#initiative)
+
 ## About
 
 Each image shows something that is much larger in reality. A landscape, a room, or something similar. We wanted to convey the feeling that the world continues beyond the edges of the image.
@@ -249,8 +273,6 @@ Despite this limitation, the setup still worked as intended and provided valuabl
 
 
 ## Initiative
-
-Recognition of special achievements / efforts (alongside project making, coachings, ...) (+ max 3)
 
 We would like to implement something else for Polenta 7000 in the summer and have planned to realise our Strobo-Toi.
 
