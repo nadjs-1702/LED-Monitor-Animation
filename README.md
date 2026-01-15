@@ -145,15 +145,7 @@ The Pixlite controller receives this data and forwards it to the LED strips, whi
 
 Small communication overview:
 
-TouchDesigner
-    │  
-    │ Art-Net (DMX)  
-    ▼  
-Pixlite Controller  
-    │  
-    │ Data signal  
-    ▼  
-LED Strips
+![Communication diagram](img/communication.png)
 
 Important:  
 The IP address in TouchDesigner must match the IP of the Pixlite controller.  
