@@ -27,7 +27,7 @@
 ## About
 
 Each image shows something that is much larger in reality. A landscape, a room, or something similar. We wanted to convey the feeling that the world continues beyond the edges of the image.
-You find our video [here](https://youtu.be/adPO0Rj56-E)
+You find our video [here](https://youtu.be/adPO0Rj56-E).
 
 ## Usage
 
