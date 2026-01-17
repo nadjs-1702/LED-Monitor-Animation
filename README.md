@@ -27,7 +27,6 @@
 ## About
 
 Each image shows something that is much larger in reality. A landscape, a room, or something similar. We wanted to convey the feeling that the world continues beyond the edges of the image.
-You can find our video [here](https://youtu.be/adPO0Rj56-E).
 
 ## Usage
 
@@ -143,6 +142,8 @@ The video can be easily replaced, making this content highly flexible for differ
 By simply changing the file path, any custom video can be loaded into the system. This enables quick adaptation without modifying the TouchDesigner network itself.
 
 This option is ideal for showcasing prepared video material, event-specific visuals or experimental clips that should be extended through the LED setup.
+
+You can find our video [here](https://youtu.be/adPO0Rj56-E).
 
 
 ### Diagrams
